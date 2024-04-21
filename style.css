@@ -1,0 +1,33 @@
+body {
+    font-family: 'Monospace';
+    width: 200px;
+    height: 200px;
+  }
+
+  .kolo {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    border: 10px solid lightblue;
+    border-width: 10%;
+  }
+
+  body {
+    background: #0e2a36;
+    font-family: sans-serif;
+    color: #00c790;
+  }
+
+  svg {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 50%;
+    margin-top: -100px;
+  }
+
+  #range {
+    display: block;
+  }
